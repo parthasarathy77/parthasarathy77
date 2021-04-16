@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Parthasarathy S
 - 👀 I’m interested in Software Development , Web Designing , Programming
 - 🌱 I’m currently learning Electronics and Communication Engineering in RMK College of Engineering and Technology
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at part18ec089@rmkcet.ac.in 
 
 <!---
